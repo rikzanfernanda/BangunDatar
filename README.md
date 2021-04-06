@@ -17,3 +17,9 @@ Atau clone
 ```bash
 git clone https://github.com/rikzanfernanda/bangundatar.git
 ```
+
+## How to Use
+Persegi
+```bash
+use BangunDatar\Persegi;
+```
