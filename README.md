@@ -19,7 +19,6 @@ git clone https://github.com/rikzanfernanda/bangundatar.git
 ```
 
 ## How to Use
-Persegi
-```bash
+* Persegi
 use BangunDatar\Persegi;
-```
+
