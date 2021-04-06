@@ -1,0 +1,29 @@
+{
+    "type": "library",
+    "license": "MIT",
+    "name": "fernanda/bangundatar",
+    "authors": [
+        {
+            "name": "Rikzan Fernanda",
+            "email": "fernandarikzan@gmail.com",
+            "homepage": "https://github.com/rikzanfernanda"
+        }
+    ],
+    "require": {
+        "php": "^7.2"
+    },
+
+    "config": {
+        "preferred-install": {
+            "*": "dist"
+        },
+        "sort-packages": true,
+        "classmap-authoritative": true,
+        "optimize-autoloader": true
+    },
+    "autoload": {
+        "psr-4": {
+            "BangunDatar\\": "src/"
+        }
+    }
+}
