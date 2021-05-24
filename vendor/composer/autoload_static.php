@@ -21,7 +21,23 @@ class ComposerStaticInit666425b6fdea78dac4fbcc8e26a2571b
     );
 
     public static $classMap = array (
+        'BangunDatar\\Abstracts\\AbstractBelahKetupat' => __DIR__ . '/../..' . '/src/Abstracts/AbstractBelahKetupat.php',
+        'BangunDatar\\Abstracts\\AbstractJajargenjang' => __DIR__ . '/../..' . '/src/Abstracts/AbstractJajargenjang.php',
+        'BangunDatar\\Abstracts\\AbstractLayang' => __DIR__ . '/../..' . '/src/Abstracts/AbstractLayang.php',
+        'BangunDatar\\Abstracts\\AbstractLingkaran' => __DIR__ . '/../..' . '/src/Abstracts/AbstractLingkaran.php',
+        'BangunDatar\\Abstracts\\AbstractPersegi' => __DIR__ . '/../..' . '/src/Abstracts/AbstractPersegi.php',
+        'BangunDatar\\Abstracts\\AbstractPersegiPanjang' => __DIR__ . '/../..' . '/src/Abstracts/AbstractPersegiPanjang.php',
+        'BangunDatar\\Abstracts\\AbstractSegitiga' => __DIR__ . '/../..' . '/src/Abstracts/AbstractSegitiga.php',
+        'BangunDatar\\Abstracts\\AbstractTrapesium' => __DIR__ . '/../..' . '/src/Abstracts/AbstractTrapesium.php',
         'BangunDatar\\BelahKetupat' => __DIR__ . '/../..' . '/src/BelahKetupat.php',
+        'BangunDatar\\Interfaces\\InterfaceBelahKetupat' => __DIR__ . '/../..' . '/src/Interfaces/InterfaceBelahKetupat.php',
+        'BangunDatar\\Interfaces\\InterfaceJajargenjang' => __DIR__ . '/../..' . '/src/Interfaces/InterfaceJajargenjang.php',
+        'BangunDatar\\Interfaces\\InterfaceLayang' => __DIR__ . '/../..' . '/src/Interfaces/InterfaceLayang.php',
+        'BangunDatar\\Interfaces\\InterfaceLingkaran' => __DIR__ . '/../..' . '/src/Interfaces/InterfaceLingkaran.php',
+        'BangunDatar\\Interfaces\\InterfacePersegi' => __DIR__ . '/../..' . '/src/Interfaces/InterfacePersegi.php',
+        'BangunDatar\\Interfaces\\InterfacePersegiPjg' => __DIR__ . '/../..' . '/src/Interfaces/InterfacePersegiPjg.php',
+        'BangunDatar\\Interfaces\\InterfaceSegitiga' => __DIR__ . '/../..' . '/src/Interfaces/InterfaceSegitiga.php',
+        'BangunDatar\\Interfaces\\InterfaceTrapesium' => __DIR__ . '/../..' . '/src/Interfaces/InterfaceTrapesium.php',
         'BangunDatar\\Jajargenjang' => __DIR__ . '/../..' . '/src/Jajargenjang.php',
         'BangunDatar\\Layang' => __DIR__ . '/../..' . '/src/Layang.php',
         'BangunDatar\\Lingkaran' => __DIR__ . '/../..' . '/src/Lingkaran.php',

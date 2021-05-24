@@ -6,7 +6,23 @@ $vendorDir = dirname(dirname(__FILE__));
 $baseDir = dirname($vendorDir);
 
 return array(
+    'BangunDatar\\Abstracts\\AbstractBelahKetupat' => $baseDir . '/src/Abstracts/AbstractBelahKetupat.php',
+    'BangunDatar\\Abstracts\\AbstractJajargenjang' => $baseDir . '/src/Abstracts/AbstractJajargenjang.php',
+    'BangunDatar\\Abstracts\\AbstractLayang' => $baseDir . '/src/Abstracts/AbstractLayang.php',
+    'BangunDatar\\Abstracts\\AbstractLingkaran' => $baseDir . '/src/Abstracts/AbstractLingkaran.php',
+    'BangunDatar\\Abstracts\\AbstractPersegi' => $baseDir . '/src/Abstracts/AbstractPersegi.php',
+    'BangunDatar\\Abstracts\\AbstractPersegiPanjang' => $baseDir . '/src/Abstracts/AbstractPersegiPanjang.php',
+    'BangunDatar\\Abstracts\\AbstractSegitiga' => $baseDir . '/src/Abstracts/AbstractSegitiga.php',
+    'BangunDatar\\Abstracts\\AbstractTrapesium' => $baseDir . '/src/Abstracts/AbstractTrapesium.php',
     'BangunDatar\\BelahKetupat' => $baseDir . '/src/BelahKetupat.php',
+    'BangunDatar\\Interfaces\\InterfaceBelahKetupat' => $baseDir . '/src/Interfaces/InterfaceBelahKetupat.php',
+    'BangunDatar\\Interfaces\\InterfaceJajargenjang' => $baseDir . '/src/Interfaces/InterfaceJajargenjang.php',
+    'BangunDatar\\Interfaces\\InterfaceLayang' => $baseDir . '/src/Interfaces/InterfaceLayang.php',
+    'BangunDatar\\Interfaces\\InterfaceLingkaran' => $baseDir . '/src/Interfaces/InterfaceLingkaran.php',
+    'BangunDatar\\Interfaces\\InterfacePersegi' => $baseDir . '/src/Interfaces/InterfacePersegi.php',
+    'BangunDatar\\Interfaces\\InterfacePersegiPjg' => $baseDir . '/src/Interfaces/InterfacePersegiPjg.php',
+    'BangunDatar\\Interfaces\\InterfaceSegitiga' => $baseDir . '/src/Interfaces/InterfaceSegitiga.php',
+    'BangunDatar\\Interfaces\\InterfaceTrapesium' => $baseDir . '/src/Interfaces/InterfaceTrapesium.php',
     'BangunDatar\\Jajargenjang' => $baseDir . '/src/Jajargenjang.php',
     'BangunDatar\\Layang' => $baseDir . '/src/Layang.php',
     'BangunDatar\\Lingkaran' => $baseDir . '/src/Lingkaran.php',
