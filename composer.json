@@ -2,6 +2,7 @@
     "type": "library",
     "license": "MIT",
     "name": "fernanda/bangundatar",
+    "description": "Library untuk menyelesaikan perhitungan bangun datar",
     "authors": [
         {
             "name": "Rikzan Fernanda",
